@@ -71,6 +71,14 @@ function Header() {
                   to="/signin"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
+                  Nosotros
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/signin"
+                  className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
+                >
                   Contacto
                 </Link>
               </li>
@@ -79,7 +87,7 @@ function Header() {
                   to="/signin"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Web Mail
+                  Novedades
                 </Link>
               </li>
             </ul>
